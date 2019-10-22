@@ -1,0 +1,26 @@
+{
+  "name": "djason-ikea-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server that content all module for the ikea product details pages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "ikea",
+    "server",
+    "fec",
+    "picollo"
+  ],
+  "author": "Djason I. Sylvaince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy/issues"
+  },
+  "homepage": "https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy#readme"
+}
