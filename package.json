@@ -4,6 +4,7 @@
   "description": "Proxy server that content all module for the ikea product details pages ",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy/issues"
   },
-  "homepage": "https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy#readme"
+  "homepage": "https://github.com/FEC-HRR41-PICOLLO/djason-ikea-proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
 }
