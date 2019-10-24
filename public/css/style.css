@@ -1,7 +1,7 @@
 .grid-container-top {
   display: grid;
   grid-template-columns: auto 32%;
-  background-color: #2196F3;
+  background-color: grey;
   padding: 5px;
 }
 
